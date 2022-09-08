@@ -2,7 +2,7 @@ package hu.petrik.javabevezeto;
 
 import java.util.Scanner;
 
-public class Main {
+public class Feladat1 {
     public static void main(String[] args){
         firstQuest();
     }
