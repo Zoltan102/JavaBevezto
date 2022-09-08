@@ -1,6 +1,5 @@
 package hu.petrik.javabevezeto;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Feladat5 {
