@@ -14,7 +14,7 @@ public class Feladat10 {
             amount += num;
             if (num % 2 == 0) {
                 even++;
-            }else{
+            } else {
                 odd++;
             }
         }
