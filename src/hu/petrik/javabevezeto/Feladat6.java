@@ -7,7 +7,7 @@ public class Feladat6 {
         System.out.print("Adja meg a dolgozat eredményét: ");
         Scanner sc = new Scanner(System.in);
         int score = sc.nextInt();
-        if (score < 43){
+        if (score < 43) {
             System.out.println("Jegy: elégtelen");
         } else if (score > 42 && score < 58) {
             System.out.println("Jegy: elégséges");
