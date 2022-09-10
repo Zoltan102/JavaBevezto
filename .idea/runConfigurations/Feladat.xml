@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="Feladat" type="Application" factoryName="Application">
-    <option name="MAIN_CLASS_NAME" value="hu.petrik.javabevezeto.Feladat7" />
+    <option name="MAIN_CLASS_NAME" value="hu.petrik.javabevezeto.Feladat8" />
     <module name="JavaBevezto" />
     <method v="2">
       <option name="Make" enabled="true" />
