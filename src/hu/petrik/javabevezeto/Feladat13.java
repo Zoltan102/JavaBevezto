@@ -13,11 +13,10 @@ public class Feladat13 {
         while (num != guess){
             if (num > guess){
                 System.out.println("A gondolt szám nagyobb!");
-                guess = sc.nextInt();
-            } else if (num < guess) {
+            } else {
                 System.out.println("A gondolt szám kissebb!");
-                guess = sc.nextInt();
             }
+            guess = sc.nextInt();
         }
         System.out.println("Sikeresen megtippelte a számot! " + num);
     }
