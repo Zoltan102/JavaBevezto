@@ -10,8 +10,8 @@ public class Feladat13 {
         System.out.println("Tippeljen a gondolt számra amíg nem találja el!");
         Scanner sc = new Scanner(System.in);
         int guess = sc.nextInt();
-        while (num != guess){
-            if (num > guess){
+        while (num != guess) {
+            if (num > guess) {
                 System.out.println("A gondolt szám nagyobb!");
             } else {
                 System.out.println("A gondolt szám kissebb!");
